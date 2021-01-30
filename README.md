@@ -6,3 +6,7 @@ The JHU shared databse, although contains most of the necessary data for visuali
 In this dashboard, I applied some data manipulation techniques using SQL to generate additional features that allows up to look at the data from another angle.
 
 Access the dashboard [here](http://bit.ly/covid19QL)
+<h3>File list</h3>
+Daily data.sql - SQL code to create daily time series
+Weekly  data.sql - SQL code to create weekly time series
+COVID19.pdf - A PDF version of the dashboard 
