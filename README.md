@@ -5,4 +5,4 @@ The JHU shared databse, although contains most of the necessary data for visuali
 
 In this dashboard, I applied some data manipulation techniques using SQL to generate additional features that allows up to look at the data from another angle.
 
-Access the dashboard [here](https://datastudio.google.com/u/0/reporting/78d098be-f5c3-44e1-9be9-7c3c00bb71b6/page/FpwUB)
+Access the dashboard [here](http://bit.ly/covid19QL)
